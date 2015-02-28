@@ -25,10 +25,10 @@ jobb =   \relative c' { \time 2/2 \tempo "Moderato" 4 = 92 \clef treble
 		      }
 
 jobbwithFinger = \addFingering \jobb
-#"1231
-2343
-5432
-121
+#"1xxx
+xxxx
+5xxx
+x2x
 5452
 32113
 454345
@@ -57,10 +57,10 @@ bal = \relative c { \time 2/2 \clef bass \set fingeringOrientations = #'(down)
 		   }
 
 balwithFinger = \addFingering \bal
-#"53|21|32|1'3-2'
-35|23|43|21
-24|12|43|21
-23|21|5
+#"5x|xx|3x|x2
+xx|xx|xx|x1
+2x|12|xx|x1
+2x|xx|x
 53|12|34|35
 24|32|12|11|24
 12|32|15
