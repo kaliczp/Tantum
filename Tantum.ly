@@ -12,8 +12,8 @@ keretEgy = \relative c'' { e1 c d e f e}
 keretKetto = \relative c'' { a1 \(g f e d d c\fermata\)}
 
 jobb =   \relative c' { \time 2/2 \tempo "Moderato" 4 = 92 \clef treble
-			c1 (d e c
-			d e f e)
+			c1 \(d e c
+			d e f e\)
 			\keretKetto c' \( b c g
 			a g f e \) a
 			\(b c
