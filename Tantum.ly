@@ -8,18 +8,19 @@
   #(set-paper-size "a4" 'landscape)
 }
 
+keretEgy = \relative c'' { e1 c d e f e}
+keretKetto = \relative c'' { a1 \(g f e d d c\fermata\)}
+
 jobb =   \relative c' { \time 2/2 \tempo "Moderato" 4 = 92 \clef treble
 			c1 (d e c
 			d e f e)
-			a (g f e
-			d d c\fermata)
-			c' \( b c g
+			\keretKetto c' \( b c g
 			a g f e \) a
 			\(b c
 			b a a g\fermata\)
 			g \(g e c
-			d e f e\) a
-			\(g f e d d c\fermata\)
+			d e f e\)
+			\keretKetto
 			\bar "||"
 		      }
 
