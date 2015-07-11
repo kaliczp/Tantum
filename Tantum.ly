@@ -29,9 +29,9 @@ jobbwithFinger = \addFingering \jobb
 xxxx
 5xxx
 x2x
-5452
-32113
-454345
+xxxx
+xxxx3
+xxxxxx
 5531
 23435
 432121
@@ -61,10 +61,10 @@ balwithFinger = \addFingering \bal
 xx|xx|xx|x1
 2x|12|xx|x1
 2x|xx|x
-53|12|34|35
-24|32|12|11|24
-12|32|15
-14|54|1
+xx|xx|xx|xx
+xx|xx|x2|xx|xx
+1x|xx|x5
+14|xx|x
 12|31|23
 51|23|45|42|12
 35|43|12|11|24|1|5
