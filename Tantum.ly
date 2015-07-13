@@ -32,9 +32,9 @@ x2x
 xxxx
 xxxx3
 xxxxxx
-5531
-23435
-432121
+5xxx
+xxxx5
+xxxx2x
 "
 
 
@@ -65,9 +65,9 @@ xx|xx|xx|xx
 xx|xx|x2|xx|xx
 1x|xx|x5
 14|xx|x
-12|31|23
-51|23|45|42|12
-35|43|12|11|24|1|5
+1x|x1|xx
+xx|xx|xx|xx|xx
+xx|xx|12|xx|xx|1|x
 "
 
 szoveg = \lyricmode {
