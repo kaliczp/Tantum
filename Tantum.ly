@@ -8,6 +8,8 @@
   #(set-paper-size "a4" 'landscape)
 }
 
+rall = ^\markup { \italic rall.}
+
 keretEgy = \relative c'' { e1 c d e f e}
 keretKetto = \relative c'' { a1 \(g f e d d c\fermata\)}
 
@@ -52,7 +54,7 @@ bal = \relative c { \time 2/2 \clef bass \set fingeringOrientations = #'(down)
 		    \( c b c d g1\fermata \)
 		    g2 \(f | e d | c b | a \) a'
 		    \(g f | e c | d f | a g | f\) d
-		    \(e f | g gis | a g? | fis d | g1 | c,\fermata\)
+		    \(e f | g gis | a g? | fis\rall d | g1 | c,\fermata\)
 		     \bar "||"
 		   }
 
